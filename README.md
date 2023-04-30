@@ -1,4 +1,4 @@
-# University MarketPlace Backend
+# Small Community Marketplace Backend
 
 ### Features
 
