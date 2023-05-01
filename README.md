@@ -10,6 +10,8 @@ With these services, a frontend marketplace app can use features of:
 * Collection
 * Review
 * Shopping Cart
+* Order
+* User Profile
 
 ### Stacks
 Django, Django REST Framework, 10+ Django libraries, Docker, Redis
