@@ -1,4 +1,4 @@
-# Small Community Marketplace Backend
+# Small Community Marketplace Backend - Meet & Pay
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"><p><em><b>High compatibility and manageability Marketplace APIs</b></em></p>
 
