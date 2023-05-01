@@ -11,14 +11,12 @@ With these services, a frontend marketplace app can use features of:
 * Product
 * Collection
 * Review
+* Marketplace
 * Shopping Cart
 * Order
 * User Profile
-* Marketplace
-
-to customize their needs, as well as supportive tools like:
+* Authentication
 * Static File Management
-* Group-based Authentication
 * Email Sending
 * Automated and Performance Testing
 * Data Caching
@@ -42,3 +40,4 @@ Django, Django REST Framework, Docker, Redis, JWT, Celery, MySQL (DataGrip) and 
 * GUID for security settings
 * Django authentication system for managing groups and permissions
 * Customized user model for Admin management
+* Securing APIs using Token Based Authentication and JWT
