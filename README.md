@@ -26,9 +26,12 @@ to customize their needs, as well as supportive tools like:
 * Security Setting
 * Async Background Task
 
+<br>
 
 ### Tech Stacks
 Django, Django REST Framework, Docker, Redis, JWT, Celery, MySQL (DataGrip) and several Django libraries
+
+<br>
 
 ### Implementation Details
 
