@@ -5,7 +5,7 @@
 <br>
 
 ### API Services
-With this API, a frontend marketplace can use functions of:
+With these services, a frontend marketplace app can use features of:
 * Product
 * Collection
 * Review
