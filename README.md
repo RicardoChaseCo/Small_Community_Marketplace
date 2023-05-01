@@ -38,3 +38,4 @@ Django, Django REST Framework, Docker, Redis, JWT, Celery, MySQL (DataGrip) and 
 * django-filter for generic models filtering and searching
 * GUID for security settings
 * Django authentication system for managing groups and permissions
+* Customized user model for Admin management
