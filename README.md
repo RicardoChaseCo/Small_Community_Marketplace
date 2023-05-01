@@ -12,8 +12,9 @@ With these services, a frontend marketplace app can use features of:
 * Shopping Cart
 * Order
 * User Profile
+* Marketplace
 
-as well as supportive tools like:
+to customize their needs, as well as supportive tools like:
 * Static File Management
 * Group-based Authentication
 * Email Sending
