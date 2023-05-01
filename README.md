@@ -25,7 +25,7 @@ as well as supportive tools like:
 
 
 ### Tech Stacks
-Django, Django REST Framework, Docker, Redis, JWT, Celery and several Django libraries
+Django, Django REST Framework, Docker, Redis, JWT, Celery, MySQL (DataGrip) and several Django libraries
 
 ### Implementation Details
 
