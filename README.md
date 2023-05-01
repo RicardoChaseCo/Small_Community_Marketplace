@@ -12,9 +12,14 @@ With these services, a frontend marketplace app can use features of:
 * Shopping Cart
 * Order
 * User Profile
+* Static File Management
+* Email Sending
+* Built-in Automated and Performance Testing
+* Data Caching
+* Deployment Setting
 
 ### Tech Stacks
-Django, Django REST Framework, 10+ Django libraries, Docker, Redis
+Django, Django REST Framework,, Docker, Redis, Celery and several Django libraries
 
 ### Implementations
 
