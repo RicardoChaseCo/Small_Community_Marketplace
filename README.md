@@ -12,7 +12,7 @@ With these services, a frontend marketplace app can use features of:
 * Shopping Cart
 
 ### Stacks
-Django, Django REST Framework, Docker, Redis
+Django, Django REST Framework, 10+ Django libraries, Docker, Redis
 
 ### Implementations
 
@@ -21,3 +21,4 @@ Django, Django REST Framework, Docker, Redis
 * Nested Routers for complex routing
 * django-filter for generic models filtering and searching
 * GUID for security settings
+* Django authentication system for managing groups and permissions
