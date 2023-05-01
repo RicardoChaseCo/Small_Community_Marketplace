@@ -4,19 +4,20 @@
 
 <br>
 
-
-
 ### API Services
+With this API, a frontend marketplace can use functions of:
 * Product
 * Collection
 * Review
 * Shopping Cart
 
+### Stacks
+Django, Django REST Framework, Docker, Redis
 
-### Technologies
+### Implementations
 
 * Making RESTful APIs using Django REST Framework
 * Django Debug tool bar for debugging
 * Nested Routers for complex routing
 * django-filter for generic models filtering and searching
-* GUID security settings
+* GUID for security settings
