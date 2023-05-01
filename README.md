@@ -11,7 +11,8 @@
 * Nested Routers for complex routing
 * django-filter for generic models filtering and searching
 
-### Features
+### APIs
 * Product
 * Collection
 * Review
+* Shopping Cart
