@@ -13,7 +13,7 @@ With these services, a frontend marketplace app can use features of:
 * Order
 * User Profile
 
-### Stacks
+### Tech Stacks
 Django, Django REST Framework, 10+ Django libraries, Docker, Redis
 
 ### Implementations
