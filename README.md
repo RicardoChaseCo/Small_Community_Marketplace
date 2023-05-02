@@ -54,6 +54,7 @@ With these services, a frontend marketplace app can use features of:
 * pytest for automated and continuous testing on our database implementations
 * pytest fixtures and Model Bakery for reusable test scripts
 * Locust and django-silk for performance testing
+* gunicorn for production mode server
 
 <br>
 
