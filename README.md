@@ -44,6 +44,7 @@ Django, Django REST Framework, Djoser, django-filter, Docker, Redis, JWT, Celery
 * Securing APIs using Djoser and JWT as the auth engine
 * Django Signals for seperating commands and queries
 * Pillow for image files processing
+* CORS for frontend requests
 
 <br>
 
