@@ -160,10 +160,10 @@ SIMPLE_JWT = {
     'ACCESS_TOKEN_LIFETIME': timedelta(days=1)
 }
 
-DEFAULT_FROM_EMAIL = 'from@moshbuy.com'
+DEFAULT_FROM_EMAIL = 'from@xingnan.com'
 
 ADMINS = [
-    ('Mosh', 'admin@moshbuy.com')
+    ('Xingnan', 'admin@xingnan.com')
 ]
 
 CELERY_BEAT_SCHEDULE = {
