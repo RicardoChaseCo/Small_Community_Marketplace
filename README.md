@@ -43,3 +43,9 @@ Django, Django REST Framework, Djoser, django-filter, Docker, Redis, JWT, Celery
 * Customized user model for Admin management
 * Securing APIs using Djoser and JWT as the auth engine
 * Django Signals for seperating commands and queries
+* Pillow for image files processing
+
+<br>
+
+### API Docs
+TBD
