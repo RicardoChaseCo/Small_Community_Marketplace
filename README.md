@@ -53,7 +53,7 @@ With these services, a frontend marketplace app can use features of:
 * Redis both as the message broker for arranging tasks in queue and also the cache
 * Docker Images for our SMTP server and redis setup
 * pytest for automated and continuous testing on our database implementations
-* pytest fixtures for reusable test scripts
+* pytest fixtures and Model Bakery for reusable test scripts
 * Locust for performance testing
 
 <br>
