@@ -40,4 +40,4 @@ Django, Django REST Framework, Djoser, django-filter, Docker, Redis, JWT, Celery
 * GUID for security settings
 * Django authentication system for managing groups and permissions
 * Customized user model for Admin management
-* Securing APIs using Token Based Authentication and JWT
+* Securing APIs using Djoser and JWT as the auth engine
