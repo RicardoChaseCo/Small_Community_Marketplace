@@ -29,9 +29,8 @@ With these services, a frontend marketplace app can use features of:
 <br>
 
 # Tech Stacks
-- Django
-- Django REST Framework, Djoser, django-filter, Pillow, silk, and other Django libraries
-- Docker, Redis, JWT, Celery, flow-er, Locust, PyTest, MySQL (DataGrip)
+- Django, Django REST Framework, and many other Django libraries
+- Docker, Redis, JWT, Celery, Locust, PyTest, MySQL (DataGrip)
 
 <br>
 
