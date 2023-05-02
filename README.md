@@ -6,7 +6,7 @@
 
 <br>
 
-### API Services
+# API Services
 With these services, a frontend marketplace app can use features of:
 * Product
 * Collection
@@ -27,12 +27,12 @@ With these services, a frontend marketplace app can use features of:
 
 <br>
 
-### Tech Stacks
+# Tech Stacks
 Django, Django REST Framework, Djoser, django-filter, Docker, Redis, JWT, Celery, MySQL (DataGrip)
 
 <br>
 
-### Implementation Details
+# Implementation Details
 
 * Making RESTful APIs using Django REST Framework
 * Django Debug tool bar for debugging
@@ -48,5 +48,5 @@ Django, Django REST Framework, Djoser, django-filter, Docker, Redis, JWT, Celery
 
 <br>
 
-### API Docs
+# API Docs
 TBD
