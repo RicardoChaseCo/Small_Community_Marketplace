@@ -48,7 +48,7 @@ With these services, a frontend marketplace app can use features of:
 * Pillow for image files processing
 * CORS for frontend requests
 * smtp4dev for faking a SMTP server to email sending testing
-* Celery for asynchronous background tasks
+* Celery for concurrency background tasks
 * Redis both as the message broker for arranging tasks in queue and also the cache
 * Docker Images for our SMTP server and redis setup
 
