@@ -51,6 +51,8 @@ With these services, a frontend marketplace app can use features of:
 * Celery for concurrency background tasks, and Celery Beat for periodic tasks
 * Redis both as the message broker for arranging tasks in queue and also the cache
 * Docker Images for our SMTP server and redis setup
+* pytest for automated testing on our database implementations
+* Locust for performance testing
 
 <br>
 
