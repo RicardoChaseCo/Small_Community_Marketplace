@@ -60,7 +60,7 @@ tech_stacks = {
 * pytest for automated and continuous testing on our database implementations
 * pytest fixtures and Model Bakery for reusable test scripts
 * Locust and django-silk for performance testing
-* gunicorn for production mode server
+* gunicorn for production mode web server
 
 <br>
 
