@@ -64,5 +64,30 @@ tech_stacks = {
 
 <br>
 
-# API Docs
-TBD
+# Run Guide
+```
+pipenv install
+pipenv shell
+```
+make sure to config your DATABASE settings, then run:
+```
+python manage.py seed_db
+```
+to populate your database with dummy data (only for testing), then run:
+```
+python manage.py migrate
+python manage.py runserver
+```
+then you can access the api services at:
+```
+http://127.0.0.1:8000/store/
+```
+to access specific product or collections, you should access:
+```
+http://127.0.0.1:8000/store/products/<pk>
+```
+for example:
+```
+http://127.0.0.1:8000/store/products/3
+```
+for more apis, please access the url.py. Detailed api guide is coming
